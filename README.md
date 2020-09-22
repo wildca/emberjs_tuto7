@@ -50,3 +50,4 @@ $ open http://localhost:4200
 
 [www.yoember.com - The Ember.js Tutorial](http://yoember.com)
 test
+test
